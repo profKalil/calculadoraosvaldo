@@ -1,4 +1,4 @@
-#Programa para calcular soma de dois números
+#Programa para calcular soma de dois números - alunos
 
 #Entrada de dados
 numero1 = 49
